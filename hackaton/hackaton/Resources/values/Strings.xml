@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">hackaton</string>
+	<string-array name="Categories">
+		<item>Categoria1</item>
+		<item>Categoria2</item>
+		<item>Categoria3</item>
+		<item>Categoria4</item>
+		<item>Categoria5</item>
+		<item>Categoria6</item>
+		<item>Categoria7</item>
+		<item>Categoria8</item>
+		<item>Categoria9</item>
+		<item>Categoria10</item>
+		<item>Categoria11</item>
+	</string-array>
+</resources>

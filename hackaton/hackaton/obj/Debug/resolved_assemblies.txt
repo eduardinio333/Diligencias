@@ -1,0 +1,2 @@
+C:\nojohns\nojohns\hackaton\hackaton\bin\Debug\hackaton.dll
+C:\nojohns\nojohns\hackaton\Components\sqlite-net-1.0.8.3\lib\android\SQLite.dll
